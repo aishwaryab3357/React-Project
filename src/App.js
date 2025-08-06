@@ -1,14 +1,14 @@
 //import logo from './logo.svg';
 import './App.css';
 import React from 'react';
-import Functional from './components/Functional';
-import Condition from './Condition';
+// import Functional from './components/Functional';
+// import Condition from './Condition';
 //import ClassComponent from './components/ClassComponent';
 // import Counter from './components/Counter'
 // import Message from './components/Message';
 import GithubCard from './components/GithubCard';
-import ScreenWidth from './components/ScreenWidth';
-import UserDetails from './components/UserDetails';
+// import ScreenWidth from './components/ScreenWidth';
+// import UserDetails from './components/UserDetails';
 
 // function App() {
   // let name=prompt("enter your name");
@@ -64,10 +64,12 @@ import UserDetails from './components/UserDetails';
    <>
   {/* // <Counter/> */}
   {/* <Message/> */}
-  {/* <GithubCard username="aishwaryab3357"/> */}
+  <GithubCard username="aishwaryab3357"/>
 
   {/* <ScreenWidth/> */}
-   <UserDetails />
+
+   {/* <UserDetails /> */}
+
    </>
 )
 } 
