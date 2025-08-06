@@ -1,0 +1,9 @@
+h1{
+    background-color: rgb(138, 176, 176);
+    color: green;
+    font-size: 50px;
+    height: 200px;
+    width: 800px;
+    text-transform: capitalize;
+    text-decoration: solid;
+}
